@@ -1,0 +1,16 @@
+.card {
+    background: var(--surface-card);
+    padding: 1rem;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+}
+
+.login-btn{
+    background-color: red;
+    border-radius: 20px;
+}
+.new-ad-btn{
+    
+    margin-left: 94rem;
+
+}
